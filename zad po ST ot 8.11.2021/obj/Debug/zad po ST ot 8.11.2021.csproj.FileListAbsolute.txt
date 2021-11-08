@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\zad po ST ot 8.11.2021\zad po ST ot 8.11.2021\bin\Debug\zad po ST ot 8.11.2021.exe.config
+C:\Users\pc\source\repos\zad po ST ot 8.11.2021\zad po ST ot 8.11.2021\bin\Debug\zad po ST ot 8.11.2021.exe
+C:\Users\pc\source\repos\zad po ST ot 8.11.2021\zad po ST ot 8.11.2021\bin\Debug\zad po ST ot 8.11.2021.pdb
+C:\Users\pc\source\repos\zad po ST ot 8.11.2021\zad po ST ot 8.11.2021\obj\Debug\zad po ST ot 8.11.2021.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\zad po ST ot 8.11.2021\zad po ST ot 8.11.2021\obj\Debug\zad po ST ot 8.11.2021.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\zad po ST ot 8.11.2021\zad po ST ot 8.11.2021\obj\Debug\zad po ST ot 8.11.2021.exe
+C:\Users\pc\source\repos\zad po ST ot 8.11.2021\zad po ST ot 8.11.2021\obj\Debug\zad po ST ot 8.11.2021.pdb
